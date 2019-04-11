@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">App JUnit</string>
+    <string name="changed_text">This is a Demo</string>
+</resources>
